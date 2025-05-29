@@ -10,3 +10,8 @@
 print("Hello world!")
 ```
 
+# Task List
+- [ ] Create figures from clustering analysis and PCA.
+- [ ] Create tables of population statistics.
+- [ ] Write a description for each figure in the **Results** section.
+
